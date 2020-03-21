@@ -1,2 +1,2 @@
-1. Cách s? d?ng [`Xem t?i ?ây`](https://youtu.be/emCAa9jrawY) 
-2. Chúc thành công
+1. CÃ¡ch sá»­ dá»¥ngng [`Xem táº¡i Ä‘Ã¢y`](https://youtu.be/emCAa9jrawY) 
+2. ChÃºc thÃ nh cÃ´ng
