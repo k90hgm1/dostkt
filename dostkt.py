@@ -71,9 +71,10 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m  KỊCH BẢN ĐƯỢC VIỆT HÓA BỞI THỎ KHÔNG TRẮNG ( TP SÓC TRĂNG )
-	Bạn nên cân nhắc sử dụng hợp lý, tuy nó ít nguy hiểm nhưng bạn sẽ phải tuân theo pháp luật hiện hành..
-	Kịch bản này chỉ ở dạng thử nghiệm . Địa chỉ ip của bạn có thể bị nhìn thấy..bạn đã được cảnh báo \n
+	print (''' \033[92m  KỊCH BẢN ĐƯỢC VIỆT HÓA BỞI NGUYỄN TIẾN ĐỨC [ https://www.facebook.com/ducnguyen582 ]
+	Bạn nên cân nhắc sử dụng hợp lý, tuy nó chỉ là tool đơn giản nhưng bạn sẽ phải tuân theo pháp luật hiện hành..
+        Mọi hành vi cố ý gây phá hoại..chúng tôi hoàn toàn không chịu trách nhiệm
+	Kịch bản này chỉ ở dạng thử nghiệm . Địa chỉ ip của bạn có thể bị nhìn thấy..bạn đã được CẢNH BÁO \n
 	Code  : python3 dostkt.py [-s] [-p] [-t]
 	-h : Hỗ trợ
 	-s : Server ( Địa chỉ ip của web ) hoặc url web
