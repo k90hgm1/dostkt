@@ -72,7 +72,7 @@ def dos2():
 
 def usage():
 	print (''' \033[92m  KỊCH BẢN ĐƯỢC VIỆT HÓA BỞI NGUYỄN TIẾN ĐỨC 
-                                      [fb.com/ducnguyen582]
+                       [fb.com/ducnguyen582]
 	•Bạn nên cân nhắc sử dụng hợp lý, tuy nó chỉ là tool đơn giản nhưng bạn sẽ phải tuân theo pháp luật hiện hành..
         •Mọi hành vi cố ý gây phá hoại..chúng tôi hoàn toàn không chịu trách nhiệm
 	•Kịch bản này chỉ ở dạng thử nghiệm . Địa chỉ ip của bạn có thể bị nhìn thấy..bạn đã được CẢNH BÁO \n
